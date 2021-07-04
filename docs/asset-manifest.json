@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/weather-practice/static/css/main.0154a5d7.chunk.css",
+    "main.js": "/weather-practice/static/js/main.94f96b76.chunk.js",
+    "main.js.map": "/weather-practice/static/js/main.94f96b76.chunk.js.map",
+    "runtime-main.js": "/weather-practice/static/js/runtime-main.28d48cb4.js",
+    "runtime-main.js.map": "/weather-practice/static/js/runtime-main.28d48cb4.js.map",
+    "static/js/2.3badf634.chunk.js": "/weather-practice/static/js/2.3badf634.chunk.js",
+    "static/js/2.3badf634.chunk.js.map": "/weather-practice/static/js/2.3badf634.chunk.js.map",
+    "index.html": "/weather-practice/index.html",
+    "static/css/main.0154a5d7.chunk.css.map": "/weather-practice/static/css/main.0154a5d7.chunk.css.map",
+    "static/js/2.3badf634.chunk.js.LICENSE.txt": "/weather-practice/static/js/2.3badf634.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/weather-practice/static/media/background-image.08393f76.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.28d48cb4.js",
+    "static/js/2.3badf634.chunk.js",
+    "static/css/main.0154a5d7.chunk.css",
+    "static/js/main.94f96b76.chunk.js"
+  ]
+}
