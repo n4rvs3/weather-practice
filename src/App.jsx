@@ -25,13 +25,14 @@ function App() {
             conditionText: res.data.current.condition.text,
             icon: res.data.current.condition.icon,
           })
+          setCity("");
         })
     }
   return (
     <div className="wrapper">
       <div className="container">
           <Title />
-          <Form setCity={setCity} getWeather={getWeather} />
+          <Form setCity={setCity} getWeather={getWeather} city={city}/>
           <Results results={results} />
       </div>
     </div>

@@ -1,7 +1,2 @@
-const Title = () => {
-    return (
-        <h1 >世界天気予報</h1>
-    );
-};
-
+const Title = () => <h1>世界首都天気</h1>
 export default Title;
